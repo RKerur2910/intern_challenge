@@ -32,7 +32,7 @@ We will review submissions on a rolling basis.
 | Rank | Name            | Overlap     | Wirelength (um) | Runtime (s) | Notes                |
 |------|-----------------|-------------|-----------------|-------------|----------------------|
 | 1    |   example       | 0.5000      | 0.5             |  10         |   example submission |
-| 2    | Add Yours!      |             |                 |             |                      |
+| 2    | Riya Kerur      | 0.0123      | 1.87    |  29.00s           | Density-based overlap loss with two-phase optimization |
 
 
 
